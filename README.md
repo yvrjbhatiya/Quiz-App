@@ -1,20 +1,45 @@
-# Quiz App
-A web application that allows users to create quiz. users can choose the topic, type of the quiz or the number of questions of the quiz. They can also choose the difficulty level for the the quiz. [preview](https://quiz-app-mu-flax.vercel.app/).
+# QUIZ APP - React Quiz Application
 
-## screenshot
+Welcome to **QUIZ APP**, your ultimate destination for challenging quizzes and endless knowledge! Quizify is a React-based quiz application designed to test your knowledge on various topics. Dive in, answer questions, and see how much you really know!
 
-![quiz-app-mu-flax vercel app_](https://user-images.githubusercontent.com/80972735/165863667-6552fd4c-d4eb-4fa8-af7d-f9f1970e400b.png)
-![quiz-app-mu-flax vercel app_ (1)](https://user-images.githubusercontent.com/80972735/165863698-f9f28349-3716-4ea8-b304-5f1308f046ce.png)
-![quiz-app-mu-flax vercel app_ (2)](https://user-images.githubusercontent.com/80972735/165863706-e4565b63-3c5c-4df8-b335-dbc0238b9fe6.png)
-![quiz-app-mu-flax vercel app_ (3)](https://user-images.githubusercontent.com/80972735/165863713-aee71268-260d-4b97-a8be-d5835bb4883a.png)
+## Tech Stack
 
-## Built With
-- React
-- Tailwind CSS
-- Axios
-- react 
+- **React**: Our frontend is built using React, a popular and powerful JavaScript library for building user interfaces.
+
+- **Tailwind CSS**: We use Tailwind CSS for styling, which allows us to create responsive and visually appealing designs effortlessly.
+
+## Key Features
+
+- **Interactive Quizzes**: Engage in interactive quizzes covering a wide range of topics to test your knowledge.
+
+- **Randomized Questions**: Questions are randomized for a unique experience every time you take a quiz.
+
+- **Real-time Feedback**: Receive immediate feedback on your answers, keeping you informed and learning along the way.
+
+- **Score Tracking**: Keep track of your correct answers and overall score as you progress through the quizzes.
+
 
 ## Getting Started
-- clone the repo  with <code>git cone https://github.com/animogm/quiz-app.git</code>
-- Run npm install
-- Run npm start
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/yvrjbhatiya/Quiz-App
+
+2. **Install Dependencies:**:
+
+    cd Quiz-App
+   
+    npm install
+
+4. **Start the Development Server**:
+
+    npm start
+
+
+## Hosted Url- 
+
+   ```
+   https://quiz-app-flax-six.vercel.app/
+   ```
+
